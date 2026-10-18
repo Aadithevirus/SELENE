@@ -6,7 +6,7 @@
 export const brand = {
   name: 'Selene',
   wordmark: 'SELENE',
-  email: 'crew@selene.space',
+  email: 'aadikhairnar30@gmail.com',
 };
 
 export const nav = [
